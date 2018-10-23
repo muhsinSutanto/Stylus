@@ -13,6 +13,7 @@
 
 #convertings tylus file to css
 ##stylus -w style.styl -o style.css
+##note don't make the css file
 
 #install css from json
 ##insert stylus npm to json
