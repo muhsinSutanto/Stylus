@@ -1,21 +1,21 @@
-#Script
+# Script
 
 
 
-##vendor prefix
+## vendor prefix
 
-#creating file
-##index.styl
-##index.css
+# creating file
+## index.styl
+## index.css
 
-#download global
-##npm install stylus -g
+# download global
+## npm install stylus -g
 
-#convertings tylus file to css
-##stylus -w style.styl -o style.css
-##note don't make the css file
+# convertings tylus file to css
+## stylus -w style.styl -o style.css
+## note don't make the css file
 
-#install css from json
-##insert stylus npm to json
-##then install 
-##npm run css
+# install css from json
+## insert stylus npm to json
+## then install 
+## npm run css
